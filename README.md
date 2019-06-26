@@ -1,11 +1,8 @@
-<a href="https://github.com/itidigitalbr/privacy-board-game">
-    <img src="https://raw.githubusercontent.com/itidigitalbr/privacy-board-game/master/marketing/logo/logo_color.png" alt="Privacy Board Game logo" title="Privacy Board Game" align="right" height="60" />
-</a>
-
 O curioso caso da Internet nas Terras Tupiniquins: a situação brasileira v.01
 ======================
 ***Bem vindo(a) ao repositório do nosso projeto!*** 🎉🆙
 
+**O curioso caso da Internet nas Terras Tupiniquins: a situação brasileira v.01** é um relatório aberto
 
 The **Privacy Board Game** is an open, offline, extensible and board game to explore and analyze everyday situations on the Internet and learn how to navigate safely using good online security and privacy practices.
 
