@@ -19,7 +19,7 @@ O curioso caso da Internet nas Terras Tupiniquins: a situação brasileira v.01
 # Porque nós estamos documentando a saúde da Internet?
 We're working with educators, designers and marketers to build a board game to everyone that's use the web can learn how to navigate safely using good online security and privacy practices.
 
-# Getting Started
+# Começando
 ## Game play now!
 1. Download the board on your language: [[English](https://github.com/itidigitalbr/privacy-board-game/blob/master/board/privacy_board_game_en-us.pdf)] [[Portuguese](https://github.com/itidigitalbr/privacy-board-game/blob/master/board/privacy_board_game_pt-br.pdf)] [[Spanish](https://github.com/itidigitalbr/privacy-board-game/blob/master/board/privacy_board_game_es.pdf)] [[Esperanto](https://github.com/itidigitalbr/privacy-board-game/raw/master/board/privacy_board_game_eo.pdf)] ***[Translate to your language](https://www.poeditor.com/join/project/HnVTl9QYVp)***
 2. Print or draw by hand the board based on PDF file.
