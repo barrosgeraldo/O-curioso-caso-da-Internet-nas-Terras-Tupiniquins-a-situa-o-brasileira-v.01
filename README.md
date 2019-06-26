@@ -16,20 +16,8 @@ O curioso caso da Internet nas Terras Tupiniquins: a situação brasileira v.01
 * [Credits](#credits)
 * [Glossary](#glossary)
 
-
-![Logo - Privacy and Security Situations Challenge](marketing/graphics/welcome_github.png)
-
-# What we’re doing?
+# Porque nós estamos documentando a saúde da Internet?
 We're working with educators, designers and marketers to build a board game to everyone that's use the web can learn how to navigate safely using good online security and privacy practices.
-
-## The problem
-- It’s difficult to teach best privacy and security practices in local projects (Clubs, Meetups, Classroom...) in a highly engaging way.
-
-## The solution
-- Build a offline board game to teach privacy and security best practices.
-
-## Why our solution?
-Because people are enact strong online safety habits through offline board game that's a fun way to learn anything, and **bonus**: ***our game is open, offline and extensible***.
 
 # Getting Started
 ## Game play now!
