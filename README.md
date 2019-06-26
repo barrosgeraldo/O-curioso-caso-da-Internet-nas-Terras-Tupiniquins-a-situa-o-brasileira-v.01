@@ -2,13 +2,11 @@ O curioso caso da Internet nas Terras Tupiniquins: a situação brasileira v.01
 ======================
 ***Bem vindo(a) ao repositório do nosso projeto!*** 🎉🆙
 
-**O curioso caso da Internet nas Terras Tupiniquins: a situação brasileira v.01** é um relatório aberto
+**O curioso caso da Internet nas Terras Tupiniquins: a situação brasileira v.01** é um relatório aberto e colaborativo para mapear e documentar o que está acontecendo com a saúde da Internet no Brasil em 2019.
 
-The **Privacy Board Game** is an open, offline, extensible and board game to explore and analyze everyday situations on the Internet and learn how to navigate safely using good online security and privacy practices.
+***Este documento (o arquivo README) é um ponto de início para lhe dar algumas informações sobre o projeto.***
 
-***This document (the README file) is a hub to give you some information about the project. Jump straight to one of the sections below, or just scroll down to find out more.***
-
-## Table of Contents
+## Índice
 * [Welcome](#privacy-board-game)
 * [What we’re doing?](#what-were-doing)
 * [Getting Started](#getting-started)
