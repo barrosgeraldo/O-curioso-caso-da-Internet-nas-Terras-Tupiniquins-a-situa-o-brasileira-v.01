@@ -16,7 +16,7 @@ O curioso caso da Internet nas Terras Tupiniquins: a situação brasileira v.01
 * [Credits](#credits)
 * [Glossary](#glossary)
 
-# Porque nós estamos documentando a saúde da Internet?
+# Porque nós estamos documentando a saúde da Internet no Brasil?
 We're working with educators, designers and marketers to build a board game to everyone that's use the web can learn how to navigate safely using good online security and privacy practices.
 
 # Começando
