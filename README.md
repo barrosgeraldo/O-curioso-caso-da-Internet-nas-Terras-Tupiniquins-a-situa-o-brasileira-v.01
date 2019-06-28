@@ -8,8 +8,8 @@ O curioso caso da Internet nas Terras Tupiniquins: a situação brasileira v.01
 
 ## Índice
 * [Bem-vind@s](# )
-* [Por que nós estamos documentando a saúde da Internet no Brasil?](#por-que-nós-estamos-documentando-a-saúde-da-Internet-no-brasil-?)
-* [Getting Started](#getting-started)
+* [Por que nós estamos documentando a saúde da Internet no Brasil?](#Por-que-nós-estamos-documentando-a-saúde-da-Internet-no-brasil?)
+* [Por onde começar?](#Por-onde-começar?)
 * [Contribuindo](#contributindo)
 * [Drop us a line](#drop-us-a-line)
 * [Code of Conduct](#participation-guidelines)
@@ -19,7 +19,7 @@ O curioso caso da Internet nas Terras Tupiniquins: a situação brasileira v.01
 # Por que nós estamos documentando a saúde da Internet no Brasil?
 We're working with educators, designers and marketers to build a board game to everyone that's use the web can learn how to navigate safely using good online security and privacy practices.
 
-# Começando
+# Por onde começar?
 ## Game play now!
 1. Download the board on your language: [[English](https://github.com/itidigitalbr/privacy-board-game/blob/master/board/privacy_board_game_en-us.pdf)] [[Portuguese](https://github.com/itidigitalbr/privacy-board-game/blob/master/board/privacy_board_game_pt-br.pdf)] [[Spanish](https://github.com/itidigitalbr/privacy-board-game/blob/master/board/privacy_board_game_es.pdf)] [[Esperanto](https://github.com/itidigitalbr/privacy-board-game/raw/master/board/privacy_board_game_eo.pdf)] ***[Translate to your language](https://www.poeditor.com/join/project/HnVTl9QYVp)***
 2. Print or draw by hand the board based on PDF file.
@@ -67,19 +67,9 @@ If you need send a private message to us, please ping us at contato@itidigital.o
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to **[Geraldo Barros](http://telegram.me/geraldobarros)**.
 
 # Creditos
-[Geraldo Barros](https://reps.mozilla.org/u/geraldobarros/), Game Creator & Illustration Design
+[Cybelle](https://mozillians.org/pt-BR/u/cyb3ll3/)
+[Geraldo Barros](https://reps.mozilla.org/u/geraldobarros/)
 
-[Cynthia Pereira](https://reps.mozilla.org/u/cynthiapereira/), Front-end Developer & Communication
-
-[Cyb3ll3 Oliveira](https://mozillians.org/pt-BR/u/cyb3ll3/), Tests & Feedback
-
-[Carolina Tejada](https://twitter.com/cctalvarez), Spanish L10n
-
-[Chad Sansing](https://twitter.com/chadsansing), Challenge, Ideas & Resources
-
-[Global Sprint Team](https://mozilla.github.io/global-sprint/), Network
-
-[...and more here](https://github.com/itidigitalbr/privacy-board-game/graphs/contributors)
 
 # Glossary
 * **README file**: a document that introduces an open project to the public and any potential contributors
