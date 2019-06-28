@@ -7,16 +7,16 @@ O curioso caso da Internet nas Terras Tupiniquins: a situação brasileira v.01
 ***Este documento (o arquivo README) é um ponto de início para lhe dar algumas informações sobre o projeto.***
 
 ## Índice
-* [Welcome](#privacy-board-game)
-* [What we’re doing?](#what-were-doing)
+* [Bem-vind@s](# )
+* [Por que nós estamos documentando a saúde da Internet no Brasil?](#por-que-nós-estamos-documentando-a-saúde-da-Internet-no-brasil-?)
 * [Getting Started](#getting-started)
-* [Contributing](#contributing)
+* [Contribuindo](#contributindo)
 * [Drop us a line](#drop-us-a-line)
 * [Code of Conduct](#participation-guidelines)
-* [Credits](#credits)
+* [Creditods](#creditos)
 * [Glossary](#glossary)
 
-# Porque nós estamos documentando a saúde da Internet no Brasil?
+# Por que nós estamos documentando a saúde da Internet no Brasil?
 We're working with educators, designers and marketers to build a board game to everyone that's use the web can learn how to navigate safely using good online security and privacy practices.
 
 # Começando
@@ -46,7 +46,7 @@ This game is extensive, this means you can remix the game and create your own si
 
 ***The first situation is done, it is an example/template to follow.***
 
-# Contributing
+# Contribuindo
 If you think you can help in any of the areas listed (and we bet you can) or in any of the many areas that we haven't yet thought of (and here we're *sure* you can) then please check out our [contributors' guidelines](CONTRIBUTING.md) and our [roadmap](https://github.com/itidigitalbr/privacy-board-game/issues/25).
 
 Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. When you join us we ask that you follow our [code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
@@ -66,7 +66,7 @@ If you need send a private message to us, please ping us at contato@itidigital.o
 
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to **[Geraldo Barros](http://telegram.me/geraldobarros)**.
 
-# Credits
+# Creditos
 [Geraldo Barros](https://reps.mozilla.org/u/geraldobarros/), Game Creator & Illustration Design
 
 [Cynthia Pereira](https://reps.mozilla.org/u/cynthiapereira/), Front-end Developer & Communication
