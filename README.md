@@ -17,7 +17,13 @@ O curioso caso da Internet nas Terras Tupiniquins: a situação brasileira v.01
 * [Glossary](#glossary)
 
 # Por que nós estamos documentando a saúde da Internet no Brasil?
-We're working with educators, designers and marketers to build a board game to everyone that's use the web can learn how to navigate safely using good online security and privacy practices.
+Da mesma forma como a versão global do Internet Health Report, queremos incentivar uma compreensão mais ampla de como os problemas enfrentados pela Internet se relacionam nas terras Tupiniquins, queremos entender melhor a quantas anda a saúde e as debilidades nas tecnologias, na inteligência artificial, como nos conectamos, como agimos e como fazemos, tanto no pessoal quanto governamental e nacional, na Internet compreendidas em cinco questões chaves: Segurança & Privacidade, Educação Digital, Inclusão Digital, Descentralização e Novas Idéias & Código Aberto.
+
+Com a versão brasileira e quiçá, num momento futuro, uma versão da América Latina do relatório, queremos entender as singularidades da web em nossa região e compreender mais fortemente como estamos inseridos e conectados com os problemas e com que está saudável na web como um todo.
+
+Para construir esse relatório aberto, vivo, colaborativo, em constante construção, Nos basearemos em pesquisas existentes, notícias, relatórios, com contribuições das mais diversas pessoas ligadas ao mundo das tecnologias e da Internet.
+
+Está será uma primeira versão, o MVP (Minimum Viable Product) ou Produto Mínimo Viável. Nosso propósito é estimular que outras pessoas, de diferentes localidades do mundo, também olham para dentro de suas região e entendam onde e como estão inseridas na Internet, criando seus próprios relatórios locais. Pensando muito além, imagina o quão incrível seria o relatório global com tantas nuances regionais, o quão completo seria?!?!? Essa é nossa visão.
 
 # Por onde começar?
 ## Game play now!
@@ -26,25 +32,16 @@ We're working with educators, designers and marketers to build a board game to e
 3. Check the **"Let's Play"** on board game that includes tips, prepatives and rules.
 4. Start playing!
 
-## Remixing
-### Remix and create my own
-This game is extensive, this means you can remix the game and create your own situations and cards to challenge your friends! You can engage everyone to remix and co-create a new game from this, this allows you to create unlimited fun, go beyond the border and the ***sky is the limit possibilities***! **There are two ways to remix:**
+## Remixando
+### Remixe e crie o seu
+Usamos como modelo o Internet Health Report, a nossa versão brasileira ainda é muito pequena mas com grandes possibilidades de crescer. Você pode usar tanto o IRH quanto o nosso relatório da saúde da internet brasileiro, o O curioso caso da Internet nas Terras Tupiniquins: a situação brasileira v.01 
 
-### Remixing by hand
-1. Download the [white board game](https://github.com/itidigitalbr/privacy-board-game/raw/master/board/privacy_board_game_remix_your_own.pdf)
-2. Print or draw by hand the board based on PDF file
-3. Using markers write the situations risks on the white board game and solutions on the white cards.
-4. Check the **"Let's Play"** on board game that includes tips, prepatives and rules.
-5. Start playing!
+uma versão 
+This game is extensive, this means you can remix the game and create your own situations and cards to challenge your friends! You can engage everyone to remix and co-create a new game from this, this allows you to create unlimited fun, go beyond the border and the ***sky is the limit possibilities***! 
 
-### Remixing using vector software
-1. Download the [game board](https://github.com/itidigitalbr/privacy-board-game/tree/master/board) source files and fonts.
-2. Download and install the [fonts](https://github.com/itidigitalbr/privacy-board-game/blob/master/board/fonts.md).
-3. Open one of source files using [vector software](http://www.creativebloq.com/illustrator/alternative-to-illustrator-1131664).
-4. Edit all text boxes on the board and cards by adding your own situations and solutions to them (if you're using the Illustrator, [unlock the layers](https://helpx.adobe.com/illustrator/using/locking-hiding-deleting-objects.html) before).
-5. Save, print and start playing!
+ 
 
-***The first situation is done, it is an example/template to follow.***
+it is an example/template to follow.***
 
 # Contribuindo
 If you think you can help in any of the areas listed (and we bet you can) or in any of the many areas that we haven't yet thought of (and here we're *sure* you can) then please check out our [contributors' guidelines](CONTRIBUTING.md) and our [roadmap](https://github.com/itidigitalbr/privacy-board-game/issues/25).
