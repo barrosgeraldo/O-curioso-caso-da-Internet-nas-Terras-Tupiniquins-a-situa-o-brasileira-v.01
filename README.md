@@ -17,6 +17,11 @@ O curioso caso da Internet nas Terras Tupiniquins: a situação brasileira v.01
 * [Dúvidas, críticas, sugestões]
 * [Glossário] 
 
+# Bem-vind@s
+Antes de tudo, sejam bem-vindas(os)! Obrigada por acessarem o repositório do projeto **O curioso caso da Internet nas Terras Tupiniquins: a situação brasileira v.01**, o relatório aberto e colaborativo para mapear e documentar o que está acontecendo com a saúde da Internet no Brasil em 2019. 
+
+Este documento, o arquivo README, é o ponto central que te dará informações sobre o projeto. Algumas coisas importantes que você precisa saber: esse projeto está sob licença cc-by-sa-4.0 (LINK), você também encontrará informações importantes de como colaborar com o projeto no CONTRIBUTING.md e aderiamos a um Código de Conduta, espera-se que todos os participantes sigam este código.
+
 # Por que nós estamos documentando a saúde da Internet no Brasil?
 Da mesma forma como a versão global do Internet Health Report, queremos incentivar uma compreensão mais ampla de como os problemas enfrentados pela Internet se relacionam nas terras Tupiniquins, queremos entender melhor a quantas anda a saúde e as debilidades nas tecnologias, na inteligência artificial, como nos conectamos, como fazemos e como agimos na Internet, a partir de cinco questões chaves: Segurança & Privacidade, Educação Digital, Inclusão Digital, Descentralização e Novas Idéias & Código Aberto.
 
@@ -43,7 +48,7 @@ Está será uma primeira versão, um protótipo a ser melhorado constantemente. 
 Por favor leia o CONTRIBUTING.md, ali você encontrará todas as informações de como contribuir com o **O curioso caso da Internet nas Terras Tupiniquins: a situação brasileira v.01**, o Relatório da Saúde da Internet brasileiro.  
 Também temos um **Código de Conduta**. É muito importante ler, ali estão algumas diretrizes para ajudar a garantir uma experiência segura, enriquecedora e positiva para todos.
 
-## Crie o seu relatório
+# Crie o seu relatório
 Usamos como inspiração o [Internet Health Report](https://internethealthreport.org/), a nossa versão brasileira ainda é muito pequena mas está crescendo de pouquinho em poquinho. Você pode usar tanto o IRH original quanto o nosso relatório da saúde da internet brasileiro, o **O curioso caso da Internet nas Terras Tupiniquins: a situação brasileira v.01** como modelo para começar a criar os seus próprios relatórios regionais, para isso deixaremos documentado nosso passo-a-passo, nossas metodologias, nossos acertos e também os rumos a não seguir. A criatividade é o seu limite!
 
 # Código de Conduta
