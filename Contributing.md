@@ -22,11 +22,11 @@ Neste guia, você encontrará algumas indicações para facilitar a sua particip
 ## **Issues**
 
 Issues ou problemas. Essa é a melhor forma de se comunicar com todos. Neste projeto, trabalharemos com cinco tópicos:
-1. Segurança & Privacidade
-1. Educação Digital
-1. Inclusão Digital
-1. Descentralização
-1. Novas Ideias & Código Aberto
+**1. Segurança & Privacidade**
+**1. Educação Digital**
+**1. Inclusão Digital**
+**1. Descentralização**
+**1. Novas Ideias & Código Aberto**
 
 Você pode criar ou continuar com alguma discussão já iniciada casa queira dar sugestões e recomendações específicas sobre como melhorar nosso conteúdo ou em qualquer lugar que o conteúdo pareça ausente ou esteja incompleto.
 
