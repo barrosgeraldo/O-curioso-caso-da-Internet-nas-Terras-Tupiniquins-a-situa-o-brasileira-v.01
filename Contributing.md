@@ -14,7 +14,7 @@ Se houver qualquer comportamento inaceitável, seja online ou presencial, favor 
 
 # **Guia de estilo** 
 
-Neste guia, você encontrará algumas diretrizes para facilitar a sua participação no `**O curioso cado da Internet nas terras Tupiniquins: a situação brasileira v.01**`
+Neste guia, você encontrará algumas diretrizes para facilitar a sua participação no **`O curioso cado da Internet nas terras Tupiniquins: a situação brasileira v.01`**
 
 * `Issues`
 * `Labels`
